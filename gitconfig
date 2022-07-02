@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = simon.busch@live.fr
+	name = Simon Busch
